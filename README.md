@@ -7,7 +7,7 @@ Table of contents
 
 - General
   - [Overview](#overview)
-  - [How to use](#How to use)
+  - [How to use](#how-to-use)
  
 ---
 
