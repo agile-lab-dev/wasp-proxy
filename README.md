@@ -32,7 +32,7 @@ How to use
 -------------
 
 - Start WASP with zookeeper and Kafka
-- Run the WASP Proxy ./target/universal/stage/bin/wasp-proxy <producer-id>
+- Run the WASP Proxy ./target/universal/stage/bin/wasp-proxy \<producer-id\>
 - Start the producer from WASP console 
 - Call the API to push date into WASP 
 
