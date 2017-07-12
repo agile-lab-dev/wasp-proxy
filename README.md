@@ -1,3 +1,4 @@
+
 # WASP Proxy
 
 ---
@@ -23,7 +24,8 @@ Overview
 
 WASP Proxy is a producer of [WASP](https://github.com/agile-lab-dev/wasp) to push easily messages in Kafka.
 
-Thought a simple web REST API power by Confluent [Kafka REST Proxy](https://github.com/confluentinc/kafka-rest).
+Thought a simple web REST API powered by Confluent [Kafka REST Proxy](https://github.com/confluentinc/kafka-rest).
+The configuration of the WASP proxy is the same of [Kafka REST Proxy](http://docs.confluent.io/current/kafka-rest/docs/intro.html). 
 
 Can be easily managed from WASP dashboard. 
 
